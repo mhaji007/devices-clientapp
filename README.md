@@ -32,13 +32,13 @@ Please download or clone the following repository in order to use the server for
 ⚠️
 
 1.	Extract the devices-clientapp-main.zip file.  
-2.	Open terminal and navigate to devices-clientapp project directory by entering the following command
+2.	Open the terminal and navigate to devices-clientapp project directory by entering the following command
 
 
 ```bash
 cd devices-clientapp-main
 ```
-3.	Run following command to install dependencies 
+3.	Run the following command to install dependencies 
 
 ```bash
 npm install 
@@ -46,7 +46,7 @@ npm install
 
 To run the application: 
 
-1.	Open terminal and navigate to devices-clientapp project directory 
+1.	Open the terminal and navigate to devices-clientapp project directory 
 ```bash
 cd devices-clientapp-main
 ```
