@@ -27,6 +27,9 @@ Routes are used instead of modals for adding, editing and deleting confirmation.
 *	react-icons
 
 ## Installation
+⚠️ 
+Please download or clone the following repository in order to use the server for this client app before you proceed. <https://github.com/NinjaMSP/devicesTask_serverApp>
+⚠️
 
 1.	Extract the devices-clientapp-main.zip file.  
 2.	Open terminal and navigate to devices-clientapp project directory by entering the following command
