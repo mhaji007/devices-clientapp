@@ -50,7 +50,7 @@ To run the application:
 ```bash
 cd devices-clientapp-main
 ```
-2.	Run the following command to install dependencies   
+2.	Run the following command to spin up the server
 ```bash
 npm start 
 ```
