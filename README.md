@@ -57,6 +57,7 @@ npm start
 
 ## To Do
 * Add unit/integration tests
+* Add responsiveness
 
 ## Contributing
 Pull requests are welcome.
