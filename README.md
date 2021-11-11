@@ -28,12 +28,12 @@ Routes are used instead of modals for adding, editing and deleting confirmation.
 
 ## Installation
 
-1.	Extract the devices-clientapp.zip file.  
+1.	Extract the devices-clientapp-main.zip file.  
 2.	Open terminal and navigate to devices-clientapp project directory by entering the following command
 
 
 ```bash
-cd devices-clientapp
+cd devices-clientapp-main
 ```
 3.	Run following command to install dependencies 
 
@@ -45,7 +45,7 @@ To run the application:
 
 1.	Open terminal and navigate to devices-clientapp project directory 
 ```bash
-cd devices-clientapp
+cd devices-clientapp-main
 ```
 2.	Run the following command to install dependencies   
 ```bash
