@@ -1,0 +1,27 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ccc;
+    border-radius: 0.25rem;
+    padding: 1rem;
+}
+
+.formGroup {
+    display: flex;
+    margin-bottom: 1rem;
+    align-items: center;
+}
+
+.formGroup label {
+    flex-basis: 150px;
+}
+.formGroup input,
+.formGroup select {
+    flex: 1;
+    padding: 0.5rem;
+}
+
+.formButtons {
+    display: flex;
+    justify-content: flex-end;
+}

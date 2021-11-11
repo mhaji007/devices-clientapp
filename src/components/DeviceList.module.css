@@ -1,0 +1,91 @@
+.header {
+  display: flex;
+  align-items: center;
+  margin-top: 1rem;;
+}
+
+.headerItem {
+  margin: 0 1rem;
+}
+.headerItem label {
+  margin-right: 1rem;
+}
+.deviceTypes {
+  display: flex;
+  align-items: center;
+  flex: 1;
+}
+.multiSelect {
+  flex: 1
+}
+.deviceList {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #ccc;
+  border-radius: 0.25rem;
+}
+.deviceList li {
+  position: relative;
+  padding: 0 1rem;
+  border-bottom: 1px solid #ccc;
+}
+.deviceList li:last-child {
+  border-bottom: none
+}
+
+.deviceList li p {
+  margin: 1rem 0;
+}
+.label {
+  font-size: 1rem;
+}
+.selectInput {
+  border: none;
+  background: none;
+  cursor: pointer;
+  font-size: 1rem;
+  width: 200px;
+}
+
+.deviceItemSystemName {
+  font-weight: bold;
+}
+.deviceItemDeviceType {
+ color:darkblue
+}
+.deviceItemCapacity {
+
+}
+
+.deviceControls {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  display: flex;
+  align-items: center;
+}
+.deviceControls svg {
+  margin: 0 0.5rem;
+  color:rgb(64, 64, 64);
+}
+
+.panel {
+  display: flex;
+  align-items: center;
+  border: 1px solid #ccc;
+  padding: 0 1rem;
+  border-radius: 0.25rem;
+  justify-content: space-between;
+  margin-top: 1rem;
+}
+
+.addDevice {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+.addDevice svg {
+  margin: 0 0.5rem;
+}

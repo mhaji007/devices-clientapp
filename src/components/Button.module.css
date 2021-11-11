@@ -1,0 +1,17 @@
+.button {
+    margin-left: 1rem;
+    padding: 0.5rem;
+    min-width: 5rem;
+    border: 0;
+    border-radius: 0.25rem;
+}
+
+.primary {
+    background-color: #0070f3;
+    color: #fff;
+}
+
+.danger {
+    background-color: #f5222d;
+    color: #fff;
+}
