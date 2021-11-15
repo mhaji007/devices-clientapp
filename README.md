@@ -19,8 +19,7 @@ React router v6 is used to create the following routes:
 
 * /delete/:id ==> (Delete Device, delete an existing device)
 
-Routes are used instead of modals for adding, editing and deleting confirmation. This is to take advantage of browser's built-in back/forward functionality to change views. I think this design makes for a better approach when scalability and maintainability is the top concern as each component houses its own logic and api calls. Using modals might lead to complexities in file management and restrict code reuse. Nonetheless, modals often are associated with better user experience as well as giving the app more of a native look. A second implementation of this application that utilizes modals and renders devices in a paginated table can be found here:
-<https://github.com/mhaji007/devices-clientapp-v2>.
+Routes are used instead of modals for adding, editing and deleting confirmation. This is to take advantage of browser's built-in back/forward functionality to change views. I think this design makes for a better approach when scalability and maintainability is the top concern as each component houses its own logic and api calls. Using modals might lead to complexities in file management and restrict code reuse. Nonetheless, modals have been associated with improved user experience and giving apps more of a ntaive feel. A second implementation of this app that utilizes modals can be found here: <https://github.com/mhaji007/devices-clientapp-v2>.
 
 ### Other npm modules
 *	axios
